@@ -183,6 +183,6 @@ Run all cells.
 📧 ansarimustakim278@gmail.com
 
 🔗 LinkedIn:
-https://www.linkedin.com/in/mustakim-ansari-b60846343/
+https://www.linkedin.com/in/mustakim-ansari/
 
 ⭐ If you found this project useful, consider giving the repository a star.
