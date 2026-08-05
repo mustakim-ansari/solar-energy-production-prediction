@@ -164,6 +164,16 @@ The **Gradient Boosting Regressor** achieved the best performance after feature 
 
 ---
 
+# 🎯 Key Achievements
+
+- Built an end-to-end regression pipeline for renewable energy forecasting.
+- Applied feature engineering and preprocessing to improve model performance.
+- Compared multiple regression algorithms before selecting the final model.
+- Optimized the model using hyperparameter tuning.
+- Achieved an R² Score of **0.7956** on the test dataset.
+
+---
+
 # 📁 Repository Structure
 
 ```text
