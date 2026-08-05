@@ -106,6 +106,32 @@ The notebook includes:
 
 ---
 
+# 📊 Project Visualizations
+
+## Annual Energy Production Distribution
+
+![Energy Distribution](images/energy_distribution.png)
+
+---
+
+## Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+---
+
+## Year-wise Solar Projects
+
+![Yearly Projects](images/yearly_projects.png)
+
+---
+
+## Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+---
+
 # 🤖 Regression Models Evaluated
 
 - Linear Regression
