@@ -152,6 +152,18 @@ The final model was evaluated using:
 
 ---
 
+## 📈 Model Performance
+
+The **Gradient Boosting Regressor** achieved the best performance after feature engineering and hyperparameter tuning.
+
+| Metric | Value |
+|---------|-------:|
+| RMSE | **148,607.57** |
+| MAE | **15,700.87** |
+| R² Score | **0.7956** |
+
+---
+
 # 📁 Repository Structure
 
 ```text
